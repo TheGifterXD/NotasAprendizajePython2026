@@ -30,4 +30,4 @@ El contenido está organizado de forma progresiva según los temas aprendidos:
 ---
 
 ## 📌 Autor
-Creado por **Gifter** — Estudiante y aspirante a ingeniero en sistemas enfocado en el desarrollo de software y la tecnología
+Creado por **Gifter** — Estudiante de 10mo y aspirante a ingeniero en sistemas enfocado en el desarrollo de software y la tecnología
