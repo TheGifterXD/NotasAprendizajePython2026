@@ -40,4 +40,9 @@ print(msg3[-2]) # Imprime: l (penúltimo)
 
 # 6. INMUTABILIDAD
 # Un string NO se puede modificar una vez creado.
-# Además de str, los tipos de datos int, float, bool, tuple y range también son inmutables
+# Además de str, los tipos de datos int, float, bool, tuple y range también son inmutables.
+
+# 7. F-STRINGS
+# Permiten interpolar variables y expresiones dentro de un string de forma clara anteponiendo una 'f' y usando llaves {}.
+nombre = "Gifter"
+print(f"Hola, {nombre}. Tienes {10 + 6} años.") # Imprime: Hola, Gifter. Tienes 16 años.
