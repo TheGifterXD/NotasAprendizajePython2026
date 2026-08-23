@@ -31,3 +31,8 @@ El contenido está organizado de forma progresiva según los temas aprendidos:
 
 ## 📌 Autor
 Creado por **Gifter** — Estudiante de 10mo y aspirante a ingeniero en sistemas enfocado en el desarrollo de software y la tecnología
+
+---
+
+## 💡 Nota sobre los Workshops
+Los archivos nombrados como `workshop_...` corresponden a proyectos y talleres prácticos completados a lo largo del currículo de **freeCodeCamp**, donde pongo a prueba lo aprendido de forma aplicada.
