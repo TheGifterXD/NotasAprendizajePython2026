@@ -39,5 +39,23 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 
 ---
 
+### 🧪 Laboratorios y Talleres (`WORKSHOP` / `LAB`):
+- 🔹 [Impresor de Notas](01_fundamentos/05_WORKSHOP_grades_printer.py)
+- 🔹 [Generador de Perfil de Empleado](01_fundamentos/10_WORKSHOP_employee_profile_generator.py)
+- 🔹 [Divisor de Cuentas](01_fundamentos/13_WORKSHOP_bill_splitter.py)
+- 🔹 [Reserva de Boletos de Cine](01_fundamentos/16_WORKSHOP_movie_ticket_booking.py)
+- 🔹 [Cifrado Cesar](01_fundamentos/21_WORKSHOP_caesar_cipher.py)
+- 🔹 [Extractor de Pines](02_ciclos_y_secuencias/10_WORKSHOP_pin_extractor.py)
+- 🔹 [Creador de Personajes RPG](01_fundamentos/22_WORKSHOP_rpg_character.py)
+- 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/05_WORKSHOP_medical_data_validator.py)
+
+---
+
+- 🔹 [Planeador de Viaje con Clima](01_fundamentos/17_LAB_travel_weather_planner.py)
+- 🔹 [Aplicar Función de Descuento](01_fundamentos/20_LAB_apply_discount_function.py)
+- 🔹 [Generador de Patrones Numéricos](02_ciclos_y_secuencias/11_LAB_number_pattern_generator.py)
+
+---
+
 ### 🏆 Proyectos de Certificación (`CERTLAB`):
 - ⚙️ [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/06_CERTLAB_user_configuration_manager.py)
