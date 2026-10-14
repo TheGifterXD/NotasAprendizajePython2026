@@ -13,12 +13,11 @@
 
 ## 📚 Estructura del Repositorio
 
-El contenido está organizado de forma progresiva según los temas aprendidos:
+El contenido está organizado de forma progresiva según los temas y módulos aprendidos:
 
-- **`01_fundamentos/`**: Variables, tipos de datos, operadores y manipulación de strings (mutabilidad, métodos básicos).
-- **`02_control_flujo/`**: Estructuras condicionales (`if/else`) y ciclos (`for/while`).
-- **`03_funciones_y_estructuras/`**: Funciones reutilizables, listas, diccionarios y tuplas.
-- **`04_mini_proyectos/`**: Programas prácticos que integran múltiples conceptos.
+- **`01_fundamentos/`**: Variables, tipos de datos, operadores y primeros scripts de lógica básica.
+- **`02_ciclos_y_secuencias/`**: Estructuras condicionales, iteraciones con `for`/`while` y procesamiento de secuencias.
+- **`03_diccionarios_y_conjuntos/`**: Manipulación de estructuras de datos avanzadas, funciones y diccionarios aplicados.
 
 ---
 
@@ -30,7 +29,7 @@ El contenido está organizado de forma progresiva según los temas aprendidos:
 ---
 
 ## 📌 Autor
-Creado por **Gifter** — Estudiante de 10mo y aspirante a ingeniero en sistemas enfocado en el desarrollo de software y la tecnología
+Creado por **Gifter (Midoku Albán Barrera)** — Estudiante de 10mo y aspirante a ingeniero en sistemas enfocado en el desarrollo de software y la tecnología
 
 ---
 
