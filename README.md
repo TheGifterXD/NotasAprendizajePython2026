@@ -34,5 +34,10 @@ Creado por **Gifter** — Estudiante de 10mo y aspirante a ingeniero en sistemas
 
 ---
 
-## 💡 Nota sobre los Workshops
-Los archivos nombrados como `workshop_...` corresponden a proyectos y talleres prácticos completados a lo largo del currículo de **freeCodeCamp**, donde pongo a prueba lo aprendido de forma aplicada.
+## 💡 Nota sobre los WORKSHOPS, LABS Y CERTLABS
+Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden a talleres prácticos, laboratorios y proyectos de certificación completados a lo largo del currículo de **freeCodeCamp**, donde pongo a prueba lo aprendido de forma aplicada.
+
+---
+
+### 🏆 Proyectos de Certificación (`CERTLAB`):
+- ⚙️ [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/06_CERTLAB_user_configuration_manager.py)
