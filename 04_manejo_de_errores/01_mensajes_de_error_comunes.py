@@ -1,5 +1,5 @@
 # ============================
-# MENSAJES DE ERROR COMUNES
+# CONCEPTO: MENSAJES DE ERROR COMUNES
 # ============================
 # Guía rápida para identificar las excepciones más frecuentes en Python.
 
