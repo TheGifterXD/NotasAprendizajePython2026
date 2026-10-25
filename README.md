@@ -53,6 +53,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Planeador de Viaje con Clima](01_fundamentos/17_LAB_travel_weather_planner.py)
 - 🔹 [Aplicar Función de Descuento](01_fundamentos/20_LAB_apply_discount_function.py)
 - 🔹 [Generador de Patrones Numéricos](02_ciclos_y_secuencias/11_LAB_number_pattern_generator.py)
+- 🔹 [Validador ISBN](04_manejo_de_errores/05_LAB_isbn_validator.py)
 
 ---
 
