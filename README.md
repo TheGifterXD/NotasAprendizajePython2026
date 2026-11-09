@@ -1,11 +1,11 @@
-# 🐍 Notas y Proyectos de Aprendizaje en Python (2026)
+# 🐍 Notas y Proyectos de Aprendizaje en Python (2026-2027)
 
-¡Hola! Bienvenido/a a este repositorio. Aquí documento mi progreso de aprendizaje autodidacta en **Python**, abarcando desde conceptos fundamentales de lógica y sintaxis hasta pequeños proyectos prácticos.
+¡Hola! Bienvenido/a a este repositorio. Aquí documento mi progreso de aprendizaje autodidacta en **Python**, abarcando desde conceptos fundamentales de lógica y sintaxis hasta proyectos prácticos.
 
 ---
 
 ## 🎯 Objetivo
-* Registrar mi avance diario y constancia en la programación.
+* Registrar mis avances y constancia en la programación.
 * Aplicar conceptos teóricos a través de código funcional y bien comentado.
 * Construir una base sólida de conocimientos de cara a futuros proyectos de desarrollo de software.
 
@@ -17,7 +17,9 @@ El contenido está organizado de forma progresiva según los temas y módulos ap
 
 - **`01_fundamentos/`**: Variables, tipos de datos, operadores y primeros scripts de lógica básica.
 - **`02_ciclos_y_secuencias/`**: Estructuras condicionales, iteraciones con `for`/`while` y procesamiento de secuencias.
-- **`03_diccionarios_y_conjuntos/`**: Manipulación de estructuras de datos avanzadas, funciones y diccionarios aplicados.
+- **`03_diccionarios_y_conjuntos/`**: Manipulación de estructuras de datos, funciones y diccionarios aplicados.
+- **`04_manejo_de_errores/`**: Manejo de excepciones `try`/`except` y uso de `raise`.
+- **`05_clases_y_objetos/`**: Creación de clases, manejo y funciones de atributos.
 
 ---
 
@@ -29,7 +31,7 @@ El contenido está organizado de forma progresiva según los temas y módulos ap
 ---
 
 ## 📌 Autor
-Creado por **Gifter (Midoku Albán Barrera)** — Estudiante de 10mo y aspirante a ingeniero en sistemas enfocado en el desarrollo de software y la tecnología
+Creado por **Gifter (Midoku Albán Barrera)** — Estudiante de 11mo y aspirante a ingeniero en sistemas enfocado en el desarrollo de software y la tecnología
 
 ---
 
@@ -38,7 +40,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 
 ---
 
-### 🧪 Laboratorios y Talleres (`WORKSHOP` / `LAB`):
+### ⚙️ Talleres (`WORKSHOP`):
 - 🔹 [Impresor de Notas](01_fundamentos/05_WORKSHOP_grades_printer.py)
 - 🔹 [Generador de Perfil de Empleado](01_fundamentos/10_WORKSHOP_employee_profile_generator.py)
 - 🔹 [Divisor de Cuentas](01_fundamentos/13_WORKSHOP_bill_splitter.py)
@@ -48,7 +50,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Creador de Personajes RPG](01_fundamentos/22_WORKSHOP_rpg_character.py)
 - 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/05_WORKSHOP_medical_data_validator.py)
 
----
+### 🧪 Laboratorios (`LAB`):
 
 - 🔹 [Planeador de Viaje con Clima](01_fundamentos/17_LAB_travel_weather_planner.py)
 - 🔹 [Aplicar Función de Descuento](01_fundamentos/20_LAB_apply_discount_function.py)
