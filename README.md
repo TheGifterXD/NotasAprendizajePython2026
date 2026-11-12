@@ -49,6 +49,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Extractor de Pines](02_ciclos_y_secuencias/10_WORKSHOP_pin_extractor.py)
 - 🔹 [Creador de Personajes RPG](01_fundamentos/22_WORKSHOP_rpg_character.py)
 - 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/05_WORKSHOP_medical_data_validator.py)
+- 🔹 [Inventario de Instrumentos Musicales](05_clases_y_objetos/05_WORKSHOP_musical_instrument_inventory.py)
 
 ### 🧪 Laboratorios (`LAB`):
 
@@ -56,8 +57,9 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Aplicar Función de Descuento](01_fundamentos/20_LAB_apply_discount_function.py)
 - 🔹 [Generador de Patrones Numéricos](02_ciclos_y_secuencias/11_LAB_number_pattern_generator.py)
 - 🔹 [Validador ISBN](04_manejo_de_errores/05_LAB_isbn_validator.py)
+- 🔹 [Clase Planeta](05_clases_y_objetos/06_LAB_planet_class.py)
 
 ---
 
 ### 🏆 Proyectos de Certificación (`CERTLAB`):
-- ⚙️ [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/06_CERTLAB_user_configuration_manager.py)
+- 🔹 [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/06_CERTLAB_user_configuration_manager.py)
