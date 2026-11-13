@@ -50,6 +50,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Creador de Personajes RPG](01_fundamentos/22_WORKSHOP_rpg_character.py)
 - 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/05_WORKSHOP_medical_data_validator.py)
 - 🔹 [Inventario de Instrumentos Musicales](05_clases_y_objetos/05_WORKSHOP_musical_instrument_inventory.py)
+- 🔹 [Simulador de Email](05_clases_y_objetos/07_WORKSHOP_email_simulator.py)
 
 ### 🧪 Laboratorios (`LAB`):
 
