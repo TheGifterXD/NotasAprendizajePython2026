@@ -64,3 +64,4 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 
 ### 🏆 Proyectos de Certificación (`CERTLAB`):
 - 🔹 [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/06_CERTLAB_user_configuration_manager.py)
+- 🔹 [App de Presupuesto](05_clases_y_objetos/08_CERTLAB_budget_app.py)
