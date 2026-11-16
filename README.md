@@ -20,6 +20,7 @@ El contenido está organizado de forma progresiva según los temas y módulos ap
 - **`03_diccionarios_y_conjuntos/`**: Manipulación de estructuras de datos, funciones y diccionarios aplicados.
 - **`04_manejo_de_errores/`**: Manejo de excepciones `try`/`except` y uso de `raise`.
 - **`05_clases_y_objetos/`**: Creación de clases, manejo y funciones de atributos.
+- **`06_programacion_orientada_a_objetos/`**: Encapsulación, herencia, polimorfismo y abstracción
 
 ---
 
@@ -51,6 +52,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/05_WORKSHOP_medical_data_validator.py)
 - 🔹 [Inventario de Instrumentos Musicales](05_clases_y_objetos/05_WORKSHOP_musical_instrument_inventory.py)
 - 🔹 [Simulador de Email](05_clases_y_objetos/07_WORKSHOP_email_simulator.py)
+- 🔹 [Rastreador de Salarios](06_programacion_orientada_a_objetos/03_WORKSHOP_salary_tracker.py)
 
 ### 🧪 Laboratorios (`LAB`):
 
@@ -59,6 +61,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Generador de Patrones Numéricos](02_ciclos_y_secuencias/11_LAB_number_pattern_generator.py)
 - 🔹 [Validador ISBN](04_manejo_de_errores/05_LAB_isbn_validator.py)
 - 🔹 [Clase Planeta](05_clases_y_objetos/06_LAB_planet_class.py)
+- 🔹 [Estadístiscas de Personaje de Juego](06_programacion_orientada_a_objetos/04_LAB_game_character_stats.py)
 
 ---
 
