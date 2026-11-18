@@ -50,7 +50,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Inventario de Cocina](01_fundamentos/22_WORKSHOP_kitchen_inventory.py)
 - 🔹 [Cifrado Cesar](01_fundamentos/24_WORKSHOP_caesar_cipher.py)
 - 🔹 [Extractor de Pines](02_ciclos_y_secuencias/10_WORKSHOP_pin_extractor.py)
-- 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/05_WORKSHOP_medical_data_validator.py)
+- 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/08_WORKSHOP_medical_data_validator.py)
 - 🔹 [Inventario de Instrumentos Musicales](05_clases_y_objetos/05_WORKSHOP_musical_instrument_inventory.py)
 - 🔹 [Simulador de Email](05_clases_y_objetos/07_WORKSHOP_email_simulator.py)
 - 🔹 [Rastreador de Salarios](06_programacion_orientada_a_objetos/03_WORKSHOP_salary_tracker.py)
@@ -68,5 +68,5 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 ---
 
 ### 🏆 Proyectos de Certificación (`CERTLAB`):
-- 🔹 [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/06_CERTLAB_user_configuration_manager.py)
+- 🔹 [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/09_CERTLAB_user_configuration_manager.py)
 - 🔹 [App de Presupuesto](05_clases_y_objetos/08_CERTLAB_budget_app.py)
