@@ -66,7 +66,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Validador ISBN](04_manejo_de_errores/05_LAB_isbn_validator.py)
 - 🔹 [Clase Planeta](05_clases_y_objetos/06_LAB_planet_class.py)
 - 🔹 [Estadístiscas de Personaje de Juego](06_programacion_orientada_a_objetos/04_LAB_game_character_stats.py)
-- 🔹 [Interfaz de Jugador](06_programacion_orientada_a_objetos/11_LAB_player_interace.py)
+- 🔹 [Interfaz de Jugador](06_programacion_orientada_a_objetos/11_LAB_player_interface.py)
 
 ---
 
