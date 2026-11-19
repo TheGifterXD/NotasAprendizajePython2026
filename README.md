@@ -54,6 +54,8 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Inventario de Instrumentos Musicales](05_clases_y_objetos/05_WORKSHOP_musical_instrument_inventory.py)
 - 🔹 [Simulador de Email](05_clases_y_objetos/07_WORKSHOP_email_simulator.py)
 - 🔹 [Rastreador de Salarios](06_programacion_orientada_a_objetos/03_WORKSHOP_salary_tracker.py)
+- 🔹 [Catalogo de Medios](06_programacion_orientada_a_objetos/08_WORKSHOP_media_catalogue.py)
+- 🔹 [Calculadora de Descuentos](06_programacion_orientada_a_objetos/10_WORKSHOP_discount_calculator.py)
 
 ### 🧪 Laboratorios (`LAB`):
 
@@ -64,6 +66,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Validador ISBN](04_manejo_de_errores/05_LAB_isbn_validator.py)
 - 🔹 [Clase Planeta](05_clases_y_objetos/06_LAB_planet_class.py)
 - 🔹 [Estadístiscas de Personaje de Juego](06_programacion_orientada_a_objetos/04_LAB_game_character_stats.py)
+- 🔹 [Interfaz de Jugador](06_programacion_orientada_a_objetos/11_LAB_player_interace.py)
 
 ---
 
