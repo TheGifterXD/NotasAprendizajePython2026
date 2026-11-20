@@ -15,12 +15,12 @@
 
 El contenido está organizado de forma progresiva según los temas y módulos aprendidos:
 
-- **`01_fundamentos/`**: Variables, tipos de datos, operadores y primeros scripts de lógica básica.
-- **`02_ciclos_y_secuencias/`**: Estructuras condicionales, iteraciones con `for`/`while` y procesamiento de secuencias.
-- **`03_diccionarios_y_conjuntos/`**: Manipulación de estructuras de datos, funciones y diccionarios aplicados.
-- **`04_manejo_de_errores/`**: Manejo de excepciones `try`/`except` y uso de `raise`.
-- **`05_clases_y_objetos/`**: Creación de clases, manejo y funciones de atributos.
-- **`06_programacion_orientada_a_objetos/`**: Encapsulación, herencia, polimorfismo y abstracción
+- **`01_fundamentos/`**: Declaración de variables, tipos de datos, operadores e implementación de lógica básica.
+- **`02_ciclos_y_secuencias/`**: Control de flujo condicional, estructuras iterativas `for`/`while` y manipulación de secuencias.
+- **`03_diccionarios_y_conjuntos/`**: Diseño de funciones y gestión de colecciones no ordenadas (diccionarios y conjuntos)
+- **`04_manejo_de_errores/`**: Control de excepciones mediante bloques `try`/`except` y lanzamiento de errores personalizados con `raise`
+- **`05_clases_y_objetos/`**: Definición de clases, instanciación de objetos y gestión dinámica de atributos.
+- **`06_programacion_orientada_a_objetos/`**: Implementación de los pilares de POO: encapsulación, herencia, polimorfismo y abstracción.
 
 ---
 
