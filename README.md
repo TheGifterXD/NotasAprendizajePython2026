@@ -75,3 +75,4 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/09_CERTLAB_user_configuration_manager.py)
 - 🔹 [App de Presupuesto](05_clases_y_objetos/08_CERTLAB_budget_app.py)
 - 🔹 [Calculadora de Area de Polígonos](06_programacion_orientada_a_objetos/12_CERTLAB_polygon_area_calculator.py)
+- 🔹 [Tabla Hash](07_estructuras_de_datos_lineales/08_CERTLAB_hash_table.py)
