@@ -64,3 +64,5 @@ print(charlie_brown)
 print(f'Base salary: ${charlie_brown.salary}')
 
 charlie_brown.level = 'junior'
+
+charlie_brown.salary = 2550.5
