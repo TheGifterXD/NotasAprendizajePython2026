@@ -56,6 +56,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Rastreador de Salarios](06_programacion_orientada_a_objetos/03_WORKSHOP_salary_tracker.py)
 - 🔹 [Catalogo de Medios](06_programacion_orientada_a_objetos/08_WORKSHOP_media_catalogue.py)
 - 🔹 [Calculadora de Descuentos](06_programacion_orientada_a_objetos/10_WORKSHOP_discount_calculator.py)
+- 🔹 [Clase de Lista Enlazada](07_estructuras_de_datos_lineales/07_WORKSHOP_linked_list_class.py)
 
 ### 🧪 Laboratorios (`LAB`):
 
