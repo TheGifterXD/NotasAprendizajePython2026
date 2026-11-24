@@ -45,10 +45,10 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Impresor de Notas](01_fundamentos/05_WORKSHOP_grades_printer.py)
 - 🔹 [Generador de Perfil de Empleado](01_fundamentos/10_WORKSHOP_employee_profile_generator.py)
 - 🔹 [Validador de Perfil de Empleado](01_fundamentos/11_WORKSHOP_employee_profile_validator.py)
-- 🔹 [Divisor de Cuentas](01_fundamentos/14_WORKSHOP_bill_splitter.py)
-- 🔹 [Reserva de Boletos de Cine](01_fundamentos/18_WORKSHOP_movie_ticket_booking.py)
-- 🔹 [Inventario de Cocina](01_fundamentos/22_WORKSHOP_kitchen_inventory.py)
-- 🔹 [Cifrado Cesar](01_fundamentos/24_WORKSHOP_caesar_cipher.py)
+- 🔹 [Divisor de Cuentas](01_fundamentos/15_WORKSHOP_bill_splitter.py)
+- 🔹 [Reserva de Boletos de Cine](01_fundamentos/19_WORKSHOP_movie_ticket_booking.py)
+- 🔹 [Inventario de Cocina](01_fundamentos/23_WORKSHOP_kitchen_inventory.py)
+- 🔹 [Cifrado Cesar](01_fundamentos/25_WORKSHOP_caesar_cipher.py)
 - 🔹 [Extractor de Pines](02_ciclos_y_secuencias/10_WORKSHOP_pin_extractor.py)
 - 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/08_WORKSHOP_medical_data_validator.py)
 - 🔹 [Inventario de Instrumentos Musicales](05_clases_y_objetos/05_WORKSHOP_musical_instrument_inventory.py)
@@ -60,9 +60,9 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 
 ### 🧪 Laboratorios (`LAB`):
 
-- 🔹 [Planeador de Viaje con Clima](01_fundamentos/19_LAB_travel_weather_planner.py)
-- 🔹 [Aplicar Función de Descuento](01_fundamentos/23_LAB_apply_discount_function.py)
-- 🔹 [Creador Personaje de RPG](01_fundamentos/25_LAB_rpg_character.py)
+- 🔹 [Planeador de Viaje con Clima](01_fundamentos/20_LAB_travel_weather_planner.py)
+- 🔹 [Aplicar Función de Descuento](01_fundamentos/24_LAB_apply_discount_function.py)
+- 🔹 [Creador Personaje de RPG](01_fundamentos/26_LAB_rpg_character.py)
 - 🔹 [Generador de Patrones Numéricos](02_ciclos_y_secuencias/11_LAB_number_pattern_generator.py)
 - 🔹 [Validador ISBN](04_manejo_de_errores/05_LAB_isbn_validator.py)
 - 🔹 [Clase Planeta](05_clases_y_objetos/06_LAB_planet_class.py)
