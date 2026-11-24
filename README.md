@@ -57,6 +57,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Catalogo de Medios](06_programacion_orientada_a_objetos/08_WORKSHOP_media_catalogue.py)
 - 🔹 [Calculadora de Descuentos](06_programacion_orientada_a_objetos/10_WORKSHOP_discount_calculator.py)
 - 🔹 [Clase de Lista Enlazada](07_estructuras_de_datos_lineales/07_WORKSHOP_linked_list_class.py)
+- 🔹 [Función Conteo](08_recursion/02_WORKSHOP_countup_function.py)
 
 ### 🧪 Laboratorios (`LAB`):
 
@@ -68,6 +69,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 - 🔹 [Clase Planeta](05_clases_y_objetos/06_LAB_planet_class.py)
 - 🔹 [Estadístiscas de Personaje de Juego](06_programacion_orientada_a_objetos/04_LAB_game_character_stats.py)
 - 🔹 [Interfaz de Jugador](06_programacion_orientada_a_objetos/11_LAB_player_interface.py)
+- 🔹 [Generador de Rango de Números](08_recursion/03_LAB_range_number_generator.py)
 
 ---
 
