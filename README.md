@@ -41,40 +41,78 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 
 ---
 
-### ⚙️ Talleres (`WORKSHOP`):
+### ⚙️ Talleres (`WORKSHOP`)
+
+**01. Fundamentos**
 - 🔹 [Impresor de Notas](01_fundamentos/05_WORKSHOP_grades_printer.py)
 - 🔹 [Generador de Perfil de Empleado](01_fundamentos/10_WORKSHOP_employee_profile_generator.py)
 - 🔹 [Validador de Perfil de Empleado](01_fundamentos/11_WORKSHOP_employee_profile_validator.py)
 - 🔹 [Divisor de Cuentas](01_fundamentos/15_WORKSHOP_bill_splitter.py)
 - 🔹 [Reserva de Boletos de Cine](01_fundamentos/19_WORKSHOP_movie_ticket_booking.py)
 - 🔹 [Inventario de Cocina](01_fundamentos/23_WORKSHOP_kitchen_inventory.py)
-- 🔹 [Cifrado Cesar](01_fundamentos/25_WORKSHOP_caesar_cipher.py)
+- 🔹 [Cifrado César](01_fundamentos/25_WORKSHOP_caesar_cipher.py)
+
+**02. Ciclos y Secuencias**
 - 🔹 [Extractor de Pines](02_ciclos_y_secuencias/10_WORKSHOP_pin_extractor.py)
+
+**03. Diccionarios y Conjuntos**
 - 🔹 [Validador de Datos Médicos](03_diccionarios_y_conjuntos/08_WORKSHOP_medical_data_validator.py)
+
+**05. Clases y Objetos**
 - 🔹 [Inventario de Instrumentos Musicales](05_clases_y_objetos/05_WORKSHOP_musical_instrument_inventory.py)
 - 🔹 [Simulador de Email](05_clases_y_objetos/07_WORKSHOP_email_simulator.py)
+
+**06. Programación Orientada a Objetos**
 - 🔹 [Rastreador de Salarios](06_programacion_orientada_a_objetos/03_WORKSHOP_salary_tracker.py)
-- 🔹 [Catalogo de Medios](06_programacion_orientada_a_objetos/08_WORKSHOP_media_catalogue.py)
+- 🔹 [Catálogo de Medios](06_programacion_orientada_a_objetos/08_WORKSHOP_media_catalogue.py)
 - 🔹 [Calculadora de Descuentos](06_programacion_orientada_a_objetos/10_WORKSHOP_discount_calculator.py)
+
+**07. Estructuras de Datos Lineales**
 - 🔹 [Clase de Lista Enlazada](07_estructuras_de_datos_lineales/07_WORKSHOP_linked_list_class.py)
+
+**08. Recursión**
 - 🔹 [Función Conteo](08_recursion/02_WORKSHOP_countup_function.py)
 
-### 🧪 Laboratorios (`LAB`):
+**09. Algoritmos**
+- 🔹 [Búsqueda Binaria](09_algoritmos/03_WORKSHOP_binary_search.py)
 
+---
+
+### 🧪 Laboratorios (`LAB`)
+
+**01. Fundamentos**
 - 🔹 [Planeador de Viaje con Clima](01_fundamentos/20_LAB_travel_weather_planner.py)
 - 🔹 [Aplicar Función de Descuento](01_fundamentos/24_LAB_apply_discount_function.py)
 - 🔹 [Creador Personaje de RPG](01_fundamentos/26_LAB_rpg_character.py)
+
+**02. Ciclos y Secuencias**
 - 🔹 [Generador de Patrones Numéricos](02_ciclos_y_secuencias/11_LAB_number_pattern_generator.py)
+
+**04. Manejo de Errores**
 - 🔹 [Validador ISBN](04_manejo_de_errores/05_LAB_isbn_validator.py)
+
+**05. Clases y Objetos**
 - 🔹 [Clase Planeta](05_clases_y_objetos/06_LAB_planet_class.py)
-- 🔹 [Estadístiscas de Personaje de Juego](06_programacion_orientada_a_objetos/04_LAB_game_character_stats.py)
+
+**06. Programación Orientada a Objetos**
+- 🔹 [Estadísticas de Personaje de Juego](06_programacion_orientada_a_objetos/04_LAB_game_character_stats.py)
 - 🔹 [Interfaz de Jugador](06_programacion_orientada_a_objetos/11_LAB_player_interface.py)
+
+**08. Recursión**
 - 🔹 [Generador de Rango de Números](08_recursion/03_LAB_range_number_generator.py)
 
 ---
 
-### 🏆 Proyectos de Certificación (`CERTLAB`):
+### 🏆 Proyectos de Certificación (`CERTLAB`)
+
+**03. Diccionarios y Conjuntos**
 - 🔹 [Gestor de Configuración de Usuario](03_diccionarios_y_conjuntos/09_CERTLAB_user_configuration_manager.py)
+
+**05. Clases y Objetos**
 - 🔹 [App de Presupuesto](05_clases_y_objetos/08_CERTLAB_budget_app.py)
-- 🔹 [Calculadora de Area de Polígonos](06_programacion_orientada_a_objetos/12_CERTLAB_polygon_area_calculator.py)
+
+**06. Programación Orientada a Objetos**
+- 🔹 [Calculadora de Área de Polígonos](06_programacion_orientada_a_objetos/12_CERTLAB_polygon_area_calculator.py)
+
+**07. Estructuras de Datos Lineales**
 - 🔹 [Tabla Hash](07_estructuras_de_datos_lineales/08_CERTLAB_hash_table.py)
