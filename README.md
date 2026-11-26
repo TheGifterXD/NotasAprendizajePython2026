@@ -101,6 +101,9 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 **08. Recursión**
 - 🔹 [Generador de Rango de Números](08_recursion/03_LAB_range_number_generator.py)
 
+**09. Algoritmos**
+- 🔹 [Método de Bisección](09_algoritmos/04_LAB_bisection_method.py)
+
 ---
 
 ### 🏆 Proyectos de Certificación (`CERTLAB`)
