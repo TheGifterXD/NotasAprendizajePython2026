@@ -75,7 +75,7 @@ Los archivos nombrados como `WORKSHOP_..., LAB_... y CERTLAB_... ` corresponden 
 
 **09. Algoritmos**
 - 🔹 [Búsqueda Binaria](09_algoritmos/03_WORKSHOP_binary_search.py)
-- 🔹 [Ordenamiento Por Mezcla](09_algoritmos/03_WORKSHOP_merge_sort.py)
+- 🔹 [Ordenamiento Por Mezcla](09_algoritmos/05_WORKSHOP_merge_sort.py)
 
 ---
 
